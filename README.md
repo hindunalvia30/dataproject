@@ -13,3 +13,5 @@ streamlit run dashboarddd.py
 ```
 ## URL Streamlit App
 ```
+https://dataproject-ayq7kcuq4b2zfkqyykwada.streamlit.app/
+```
